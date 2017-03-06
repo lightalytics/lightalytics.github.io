@@ -3,8 +3,6 @@ author: Rod Light
 email: rod.light@lightalytics.com
 description: >
   lightalytics
-twitter_username: lightalytics
-github_username:  lightalytics
 google_analytics: "UA-93077459-1"
 theme: minima
 exclude:
